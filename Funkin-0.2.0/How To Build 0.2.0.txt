@@ -1,0 +1,4 @@
+How To Build 0.2.0!!!
+haxelib install markdown
+haxelib install HtmlParser
+haxelib install newgrounds 1.2.0
