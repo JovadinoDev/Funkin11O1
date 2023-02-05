@@ -22,7 +22,7 @@ THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
 
 If you just want to play the game then go to the Gamebanana Page! Its for MACOS and Windows!
 
-[https://ninja-muffin24.itch.io/funkin](https://gamebanana.com/mods/425933)
+(https://gamebanana.com/mods/425933)
 
 If you want to compile it yourself go right ahead and keep reading!
 
