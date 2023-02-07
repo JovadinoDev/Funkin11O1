@@ -20,9 +20,9 @@ Funkin11O1 Is an engine that revisits some of the older versions of Friday Night
 
 THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
 
-If you just want to play the game then go to the Gamebanana Page! Its for MACOS and Windows!
+If you just want to play the game then go to the Realeses Page! Its for MACOS and Windows!
 
-(https://gamebanana.com/mods/425933)
+[Releases](https://github.com/JovadinoDev/Funkin11O1/releases)
 
 If you want to compile it yourself go right ahead and keep reading!
 
