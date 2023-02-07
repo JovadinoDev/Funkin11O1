@@ -22,7 +22,7 @@ THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
 
 If you just want to play the game then go to the Realeses Page! Its for MACOS and Windows!
 
-[Releases](https://github.com/JovadinoDev/Funkin11O1/releases)
+[Friday Night Funkin' Releases](https://github.com/JovadinoDev/Funkin11O1/releases)
 
 If you want to compile it yourself go right ahead and keep reading!
 
