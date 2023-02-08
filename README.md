@@ -20,13 +20,13 @@ Funkin11O1 Is an engine that revisits some of the older versions of Friday Night
 
 THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
 
-If you just want to play the game then go to the Gamebanana Page! Its for MACOS and Windows!
+If you just want to play the game then go to the Realeses Page! Its for MACOS and Windows!
 
-https://ninja-muffin24.itch.io/funkin
+[Friday Night Funkin' Releases](https://github.com/JovadinoDev/Funkin11O1/releases)
 
 If you want to compile it yourself go right ahead and keep reading!
 
-also there is a txt file for information about 0.1.0 and 1.0.0
+also there is a txt file for information about 0.1.0 and 1.0.0 ALSO information to install 0.2.0!
 
 ### Installing the Required Programs
 
@@ -40,6 +40,8 @@ haxelib install flixel <---- If it saying UpdateFrgament Shit then install 4.11.
 haxelib install flixel-addons
 haxelib install flixel-ui
 haxelib install hscript
+haxelib install markdown
+haxelib install HtmlParser
 haxelib install newgrounds 1.2.0
 ```
 THE REASON WHY YOU HAVE TO INSTALL OLDER VERSION OF NEWGROUNDS BECAUSE: Other Versions uses other versions of newgrounds so it will get fucked up if you use another version.
