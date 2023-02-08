@@ -40,9 +40,9 @@ haxelib install flixel <---- If it saying UpdateFrgament Shit then install 4.11.
 haxelib install flixel-addons
 haxelib install flixel-ui
 haxelib install hscript
-haxelib install newgrounds 1.2.0
 haxelib install markdown
 haxelib install HtmlParser
+haxelib install newgrounds 1.2.0
 ```
 THE REASON WHY YOU HAVE TO INSTALL OLDER VERSION OF NEWGROUNDS BECAUSE: Other Versions uses other versions of newgrounds so it will get fucked up if you use another version.
 
