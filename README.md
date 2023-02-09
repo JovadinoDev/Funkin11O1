@@ -1,4 +1,4 @@
-# Friday Night Funkin 11O1 ENGINE!
+# Friday Night Funkin NINJA47!
 
 Friday Night Funkin, is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
 
