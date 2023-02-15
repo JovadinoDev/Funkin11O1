@@ -26,7 +26,7 @@ If you just want to play the game then go to the Realeses Page! Its for MACOS an
 
 If you want to compile it yourself go right ahead and keep reading!
 
-also there is a txt file for information about 0.1.0 and 1.0.0 ALSO information to install 0.2.0!
+also there is a txt file for information about 0.1.0 and 1.0.0
 
 ### Installing the Required Programs
 
