@@ -31,7 +31,7 @@ also there is a txt file for information about 0.1.0 and 1.0.0
 ### Installing the Required Programs
 
 First, you need to install Haxe and HaxeFlixel!
-1. [Install Haxe 4.1.5](https://haxe.org/download/version/4.1.5/) (Download 4.1.5 instead of 4.2.0 because 4.2.0 is broken and is not working with gits properly...)
+1. [Install Haxe 4.1.5](https://haxe.org/download/version/4.1.5/) (if 4.1.5 doesn't work that well, then try [Haxe 4.2.5](https://haxe.org/download/version/4.1.5/))
 2. [Install HaxeFlixel](https://haxeflixel.com/documentation/install-haxeflixel/) after downloading Haxe
 
 Other installations you'd need are the additional libraries, a fully updated list will be in `Project.xml` in the project root. Currently, these are all of the things you need to install:
